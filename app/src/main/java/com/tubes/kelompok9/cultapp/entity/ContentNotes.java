@@ -1,4 +1,4 @@
-package com.tubes.warda1902810.cultapp.entity;
+package com.tubes.kelompok9.cultapp.entity;
 
 import android.os.Parcel;
 import android.os.Parcelable;

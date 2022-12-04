@@ -1,4 +1,4 @@
-package com.tubes.warda1902810.cultapp;
+package com.tubes.kelompok9.cultapp;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -8,14 +8,14 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.tubes.warda1902810.cultapp.adapter.ContentNotesAdapter;
-import com.tubes.warda1902810.cultapp.entity.ContentNotes;
+import com.tubes.kelompok9.cultapp.entity.ContentNotes;
+import com.tubes.kelompok9.cultapp.R;
+import com.tubes.kelompok9.cultapp.adapter.ContentNotesAdapter;
 
 import java.util.ArrayList;
 

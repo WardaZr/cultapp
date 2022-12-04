@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ContentActivity">
+    tools:context="com.tubes.kelompok9.cultapp.ContentActivity">
 
     <ScrollView
         android:id="@+id/scrollView_top"

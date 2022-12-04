@@ -1,4 +1,4 @@
-package com.tubes.warda1902810.cultapp.adapter;
+package com.tubes.kelompok9.cultapp.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
-import com.tubes.warda1902810.cultapp.R;
-import com.tubes.warda1902810.cultapp.entity.ContentNotes;
+import com.tubes.kelompok9.cultapp.entity.ContentNotes;
+import com.tubes.kelompok9.cultapp.R;
 
 public class ContentNotesAdapter extends RecyclerView.Adapter<ContentNotesAdapter.RecyclerViewHolder> {
 

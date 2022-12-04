@@ -1,24 +1,17 @@
-package com.tubes.warda1902810.cultapp;
+package com.tubes.kelompok9.cultapp;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageButton;
-import android.widget.ImageView;
-import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.tubes.warda1902810.cultapp.adapter.ContentNotesAdapter;
-import com.tubes.warda1902810.cultapp.entity.ContentNotes;
-
-import java.util.ArrayList;
+import com.tubes.kelompok9.cultapp.R;
 
 public class UploadActivity extends AppCompatActivity {
     private RecyclerView content_view;
